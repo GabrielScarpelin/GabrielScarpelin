@@ -1,4 +1,4 @@
-### Olá, eu sou o Gabriel Scarpelin
+### Olá, eu sou o Gabriel Scarpelin Diniz
 -  :books: 2/4 Semestre técnico de informática no CEAP
 - 🌱 No momento estudando HTML, CSS, JavaScript e Java
 - :blue_book: 2° Ano do ensino médio
