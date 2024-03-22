@@ -5,11 +5,11 @@
 - :chart_with_upwards_trend: Sempre tentando aprender mais!
 ### Contatos:
 <div id="contatos" width="150px">
-  <a href="https://www.linkedin.com/in/gabriel-scarpelin-diniz-425258144/"><img height="29" width="29" align="top" src="https://cdn-icons-png.flaticon.com/512/61/61109.png" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabriel-scarpelin-diniz-425258144/"><img height="29" width="29" align="top" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" target="_blank"></a> 
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/gabriel.scarpelin/"><img height="30" width="30" align="top" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" target="_blank"></a>
+  <a href="mailto:gabriel.scaarpelin319@outlook.com"><img height="30" width="30" align="top" src="https://seeklogo.com/images/M/mail-icon-logo-28FE0635D0-seeklogo.com.png" target="_blank"></a>
   &nbsp;&nbsp;
-  <a href="mailto:gabriel.scaarpelin@gmail.com"><img height="30" width="30" align="top" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" target="_blank"></a>
+  <a href="https://github.com/GabrielScarpelinDiniz/GabrielScarpelinDiniz"><img height="30" width="30" align="top" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" target="_blank"></a>
 </div>
 <br>
 <br>
