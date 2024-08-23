@@ -1,7 +1,7 @@
 ### Olá, eu sou o Gabriel Scarpelin Diniz
--  :books: 1° Semestre em Ciências da Computação no Inteli
+-  :books: 2° Semestre em Ciências da Computação no Inteli
 -  :books: Curso de técnico em infórmatica no CEAP
-- 🌱 No momento estudando HTML, CSS, JavaScript e Java
+- 🌱 No momento estudando Python, Javascript (Frameworks principalmente) e Rust
 - :chart_with_upwards_trend: Sempre tentando aprender mais!
 ### Contatos:
 <div id="contatos" width="150px">
